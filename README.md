@@ -18,11 +18,11 @@
 ## Results
 
 - Conclusions drawn about Outcomes based on Launch Date:
-	The most significant conclusion that can be drawn from this data, based on Launch date, is that there is a clear peak for successful campaigns beginning in May, then gradually reducing through the remainder of the year.  The greatest number of successful kickstarter theater campaigns were those launched in May, followed by June, July and August.  
+	[Theater Outcomes Based on Launch Date](Resources/Theater_Outcomes_vs_Launch.png) The most significant conclusion that can be drawn from this data, based on Launch date, is that there is a clear peak for successful campaigns beginning in May, then gradually reducing through the remainder of the year.  The greatest number of successful kickstarter theater campaigns were those launched in May, followed by June, July and August.  
 	A second conclusion is that, while the number of failed campaigns doesn't change dramatically through most of the year, December is clearly the month with the fewest successful campaigns launched, and the only month where the number of failed campaigns is virtually the same as the number of successful campaigns.
 
 - Conclusions drawn about Outcomes based on Goals:
-	From our "Outcomes Based on Goal" table and graph, we can clearly conclude that the greatest percentage of successful campaigns in the "Plays" subcategory are those campaigns with more modest goals.  Kickstarter campaigns with fundraising goals of $5,000 or less were successful 75% of the time, and those seeking up to $20,000 were successful about 50% of the time.  While there is much less data for larger campaigns, the failure rate for campaigns seeking $45,000 or more is around 90%.
+	From our [Outcomes Based on Goal](Resources/Outcomes_vs_Goals.png) table and graph, we can clearly conclude that the greatest percentage of successful campaigns in the "Plays" subcategory are those campaigns with more modest goals.  Kickstarter campaigns with fundraising goals of $5,000 or less were successful 75% of the time, and those seeking up to $20,000 were successful about 50% of the time.  While there is much less data for larger campaigns, the failure rate for campaigns seeking $45,000 or more is around 90%.
 
 - Limitations of this dataset?
 	As mentioned above, there is not enough data from certain categories and subcategories to draw confident conclusions about certain segments of the data. For example, our data shows a 67% success rate for campaigns in the "Plays" subcategory attempting to raise $35,000 to $45,000, however this is based on a total of 9 campaigns in this goal range, versus a total of 720 campaigns seeking $5,000 or less.  
