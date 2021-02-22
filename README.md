@@ -7,7 +7,7 @@
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-####	The first chart prepared is a line graph showing the number of successful, failed and canceled kickstart theater campaigns by launch date (Theater Outcomes Based on Launch Date).  The data was tabulated and graphed in decending order (successful, failed, canceled) and filters were included in the PivotTable for both 'Parent category' and 'Years' so the data can be looked at and visualized more broadly (by other categories) or specifically (by year) if desired.
+####	The first chart prepared is a line graph showing the number of successful, failed and canceled kickstart theater campaigns by launch date [Theater Outcomes Based on Launch Date](Resources/Theater_Outcomes_vs_Launch.png).  The data was tabulated and graphed in decending order (successful, failed, canceled) and filters were included in the PivotTable for both 'Parent category' and 'Years' so the data can be looked at and visualized more broadly (by other categories) or specifically (by year) if desired.
 
 ### Analysis of Outcomes Based on Goals
 ####	The second visualization is also a line graph [Outcomes Based on Goal](Resources/Outcomes_vs_Goals.png).  It shows the percentage of successful, failed and canceled funding campaigns for Plays based on the funding goal sought.  Interestingly, it illuminated that there were no canceled kickstarter campaigns in this subcategory.  Data was tabulated using a series of COUNTIFS() formulas, then percentages were calculated/tabulated as well. 
