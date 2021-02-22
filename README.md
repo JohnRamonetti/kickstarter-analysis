@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-### Purpose:  The purpose herein was to determine what elements of a kickstarter campaign are most likely to lead to a successful fundraising campaign. Data was received and analyzed for several thousand crowdfunding projects to uncover any hidden trends, and specifically to determine how different campaigns fared in relation to their launch dates and their funding goals.  More specifically, we focused on theater, and specifically plays, because the funding of a play is the ultimate goal.
+### Purpose:  The purpose herein was to determine what elements of a kickstarter campaign are most likely to lead to a successful fundraising campaign. [Data](Kickstarter_Challenge.xlsx) was received and analyzed for several thousand crowdfunding projects to uncover any hidden trends, and specifically to determine how different campaigns fared in relation to their launch dates and their funding goals.  More specifically, we focused on theater, and specifically plays, because the funding of a play is the ultimate goal.
 
 ## Analysis and Challenges
 
